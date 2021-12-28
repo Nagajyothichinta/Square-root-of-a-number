@@ -9,22 +9,33 @@ To write a program to find the square root of a number.
 
 ## Algorithm
 1. Define a function.
+
 2. Assign number_iters = 100 in the function to perform 100 iteratios.
+
 3. Set i = 0.
+
 4. Calculate  number = 0.5 * (number + a / number) for 100 iterations.
+
 5. Return number
 
 ## Program:
 ```
 /*
 Program to find the square root for the given number(newton's method) using function.
-Developed by: 
-RegisterNumber:  
+Developed by:ch.nagajyothi 
+RegisterNumber:21003261
+def fun(x):
+        b=x
+        for i in range(8):
+            x=0.5*(x+b/x)
+        print("Square root of the number:",x)
+x=int(input())
+fun(x) 
 */
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![square root of a number](ch.png)
 
 
 ## Result:
