@@ -35,7 +35,7 @@ fun(x)
 ```
 
 ## Output:
-![square root of a number](ch.png)
+![square root of a number](https://github.com/Nagajyothichinta/Square-root-of-a-number/blob/03b01c49a92faf98a3bc3935ba4529f76bb292f4/ch.PNG)
 
 
 ## Result:
